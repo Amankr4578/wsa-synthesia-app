@@ -57,4 +57,4 @@ Songs are fetched using the **Jamendo API**, while user data, favourites, and au
 ---
 
 ## 📄 License
-© 2025 WSA. All rights reserved.
+© 2025 All rights reserved.
